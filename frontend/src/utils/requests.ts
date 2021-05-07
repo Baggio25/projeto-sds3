@@ -1,1 +1,1 @@
-export const BASE_URL='https://rbaggio-sds3-api.herokuapp.com';
+export const BASE_URL='http://localhost:8080';
